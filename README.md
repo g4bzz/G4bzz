@@ -33,8 +33,8 @@
 
 <br>
 
-### Front-end
+### Desenvolvimento WEB
 <div style="display: flex; align-items: center; gap:5px;justify-content: center;">
 	<a href="https://github.com/G4bzz/proj-ed-Trie2Mem"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G4bzz&repo=proj-ed-Trie2Mem&theme=tokyonight" alt="Projeto Trie 2 Mem"/></a>
-	<a href="https://github.com/G4bzz/page-curso"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G4bzz&repo=page-curso&theme=tokyonight" alt="Landing page simples"/></a>
+	<a href="https://github.com/G4bzz/MinhaAju-Page"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G4bzz&repo=MinhaAju-Page&theme=tokyonight" alt="MinhaAju Page"/></a>
 </div>
