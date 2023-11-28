@@ -1,9 +1,7 @@
 ## Olá, sou o Gabriel Oliveira<img style="width: 60px" src="https://static.wixstatic.com/media/2a664a_2918b7c189654a41801111db622739b7~mv2.gif" />
 
 - 🌎 Aracaju-SE
-- 💼 Aberto à propostas de emprego
 - 🏫 Estudante de Ciência da Computação
-- 😄 Pronomes: ele/dele
 - ❤️ Amante da tecnologia 🖥️ e música 🎸 
 
 <div style="display: flex; align-items: center; gap:5px;justify-content: center;gap: 4px">
